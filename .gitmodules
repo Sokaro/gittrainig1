@@ -1,0 +1,6 @@
+[submodule "Rep1"]
+	path = Rep1
+	url = https://github.com/Sokaro/Rep1
+[submodule "gitttaining1/sub"]
+	path = gitttaining1/sub
+	url = https://github.com/Sokaro/Rep1
