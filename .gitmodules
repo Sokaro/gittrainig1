@@ -8,3 +8,6 @@
 [submodule "gittraining1"]
 	path = gittraining1
 	url = https://github.com/Sokaro/gittraining1
+[submodule "sub"]
+	path = sub
+	url = https://github.com/Sokaro/Rep1
