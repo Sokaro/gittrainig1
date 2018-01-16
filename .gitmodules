@@ -1,6 +1,10 @@
 [submodule "Rep1"]
 	path = Rep1
 	url = https://github.com/Sokaro/Rep1
+	branch = master
 [submodule "gitttaining1/sub"]
 	path = gitttaining1/sub
 	url = https://github.com/Sokaro/Rep1
+[submodule "gittraining1"]
+	path = gittraining1
+	url = https://github.com/Sokaro/gittraining1
