@@ -1,3 +1,0 @@
-1. Edit .gitignore as you wish
-2. git rm -r --cached .
-3. git add .
