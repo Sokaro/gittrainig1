@@ -1,7 +1,7 @@
 git filter-branch --env-filter '
-WRONG_EMAIL="111vetal111@gmail.com"
+WRONG_EMAIL="vitaliy.pyza@globallogic.com"
 NEW_NAME="New Name Value"
-NEW_EMAIL="vitaliy.pyza@globallogic.com"
+NEW_EMAIL="111vetal111@gmail.com"
 
 if [ "$GIT_COMMITTER_EMAIL" = "$WRONG_EMAIL" ]
 then
